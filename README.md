@@ -4,4 +4,4 @@ Learnt the basic of git
 
 
 07/12/19
-    -   Need to figure out how to add in the Google Search bar
+-   Need to figure out how to add in the Google Search bar
